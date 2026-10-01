@@ -1,0 +1,13 @@
+{
+  "results": [
+    {
+      "id": 1,
+      "name": "Omaha",
+      "latitude": 41.25,
+      "longitude": -96.0,
+      "timezone": "America/Chicago",
+      "country": "United States",
+      "admin1": "Nebraska"
+    }
+  ]
+}

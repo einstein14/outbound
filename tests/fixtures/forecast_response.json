@@ -1,0 +1,34 @@
+{
+  "latitude": 41.25,
+  "longitude": -96.0,
+  "timezone": "America/Chicago",
+  "current": {
+    "time": "2026-10-01T14:00",
+    "temperature_2m": 22.0,
+    "weather_code": 2,
+    "cloud_cover": 30,
+    "precipitation_probability": 5,
+    "wind_speed_10m": 10.0,
+    "is_day": 1
+  },
+  "daily": {
+    "time": ["2026-10-01"],
+    "sunrise": ["2026-10-01T07:15"],
+    "sunset": ["2026-10-01T19:00"],
+    "daylight_duration": [42300]
+  },
+  "hourly": {
+    "time": [
+      "2026-10-01T08:00",
+      "2026-10-01T09:00",
+      "2026-10-01T10:00",
+      "2026-10-01T11:00"
+    ],
+    "temperature_2m": [18.0, 20.0, 22.0, 24.0],
+    "cloud_cover": [25, 30, 35, 40],
+    "precipitation_probability": [5, 5, 10, 15],
+    "wind_speed_10m": [6, 7, 8, 9],
+    "weather_code": [1, 2, 2, 3],
+    "is_day": [1, 1, 1, 1]
+  }
+}

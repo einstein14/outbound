@@ -1,0 +1,39 @@
+{
+  "regionCode": "US",
+  "dailyInfo": [
+    {
+      "date": { "year": 2026, "month": 10, "day": 3 },
+      "pollenTypeInfo": [
+        {
+          "code": "GRASS",
+          "displayName": "Grass",
+          "inSeason": true,
+          "indexInfo": {
+            "value": 2,
+            "category": "Low"
+          }
+        }
+      ],
+      "plantInfo": [
+        {
+          "code": "RAGWEED",
+          "displayName": "Ragweed",
+          "inSeason": true,
+          "indexInfo": {
+            "value": 3,
+            "category": "Moderate"
+          }
+        },
+        {
+          "code": "GRAMINALES",
+          "displayName": "Grasses",
+          "inSeason": true,
+          "indexInfo": {
+            "value": 2,
+            "category": "Low"
+          }
+        }
+      ]
+    }
+  ]
+}

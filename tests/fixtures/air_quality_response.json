@@ -1,0 +1,27 @@
+{
+  "hourly": {
+    "time": [
+      "2026-10-01T08:00",
+      "2026-10-01T09:00",
+      "2026-10-01T10:00",
+      "2026-10-01T11:00"
+    ],
+    "us_aqi": [45, 50, 55, 60],
+    "alder_pollen": [null, null, null, null],
+    "birch_pollen": [null, null, null, null],
+    "grass_pollen": [null, null, null, null],
+    "mugwort_pollen": [null, null, null, null],
+    "olive_pollen": [null, null, null, null],
+    "ragweed_pollen": [null, null, null, null]
+  },
+  "current": {
+    "time": "2026-10-01T14:00",
+    "us_aqi": 48,
+    "alder_pollen": null,
+    "birch_pollen": null,
+    "grass_pollen": null,
+    "mugwort_pollen": null,
+    "olive_pollen": null,
+    "ragweed_pollen": null
+  }
+}
